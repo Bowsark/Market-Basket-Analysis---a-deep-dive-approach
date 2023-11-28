@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 12 14:24:45 2023
 
-@author: lEO
+@author: Nneoma
 """
 import warnings
 import numpy as np
